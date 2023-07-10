@@ -20,8 +20,19 @@
 
 >just for fun and visual, im not trying to find bases just wanting to play.
 <hr>
-<p><a href="http://adfoc.us/serve/sitelinks/?id=475250&amp;url=http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&amp;x=0794"><img src="https://i.imgur.com/eKIfz6R.png" width="100" height="100" alt="Optifine"></a></p>
+<p><a href="http://adfoc.us/serve/sitelinks/?id=475250&amp;url=http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&amp;x=0794"><img src="https://i.imgur.com/eKIfz6R.png" width="110" height="110" alt="Optifine"></a></p>
 
 > how could you play without optifine? use it for shaders.
 <hr>
-<p><a href="http://adfoc.us/serve/sitelinks/?id=475250&amp;url=http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&amp;x=0794"><img src="https://media.forgecdn.net/avatars/9/144/635421614078544069.png" width="256" height="256" alt="Optifine"></a></p>
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/journeymap"><img src="https://media.forgecdn.net/avatars/9/144/635421614078544069.png" width="110" height="110" alt="Journeymap"></a></p>
+
+> makes mapping you're base/location much ezier + add's waypoints.
+<hr>
+<p><a href="https://www.youtube.com/watch?v=oHJKwQsybyk"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fcow-png-minecraft-14.png&f=1&nofb=1&ipt=ead02ddc7e3f37e36d23f48edad3c94c90e62572b0c85ebbbbf16a2f1bb31a59&ipo=images" width="110" height="110" alt="Cowdupe"></a></p>
+
+> Cow dupe, extremely simple yet I don't really know if it works still on 2b2t.
+<hr>
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/mo-bends"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/120041780/252431096-aa189c1b-2e13-46a1-9c26-58dfdd257644.png" width="110" height="" alt="Mo'bends"></a></p>
+
+> add's player animations, awsome for visual's
+<hr>
