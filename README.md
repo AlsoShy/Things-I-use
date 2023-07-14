@@ -30,7 +30,7 @@
 <hr>
 <p><a href="https://www.youtube.com/watch?v=oHJKwQsybyk"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fcow-png-minecraft-14.png&f=1&nofb=1&ipt=ead02ddc7e3f37e36d23f48edad3c94c90e62572b0c85ebbbbf16a2f1bb31a59&ipo=images" width="110" height="110" alt="Cowdupe"></a></p>
 
-> Cow dupe, extremely simple yet I don't really know if it works still on 2b2t.
+> Cow dupe, extremely simple yet I don't really know if it still works on 2b2t.
 <hr>
 <p><a href="https://www.curseforge.com/minecraft/mc-mods/mo-bends"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/120041780/252431096-aa189c1b-2e13-46a1-9c26-58dfdd257644.png" width="110" height="" alt="Mo'bends"></a></p>
 
